@@ -1,0 +1,25 @@
+Project Name: Portfolio Splash Page
+
+Project Overview:
+My Splash Page is a personal project where I designed and developed a simple, yet effective splash page from the ground up. This project served as a practical application of several key web development concepts and technologies, with a focus on responsive design and user-friendly interfaces.
+
+Technologies Used:
+
+HTML5
+CSS3 (Flexbox, Viewport Units, Box-Sizing)
+Responsive Design Principles
+Key Features:
+
+Mobile-first design approach ensuring optimal viewing across various devices.
+Implementation of Flexbox for layout adjustments and element ordering, enhancing the page's structural flexibility.
+Use of viewport units to create fluid and adaptable sizing for elements, improving the page's responsiveness.
+Application of box-sizing: border-box; for more intuitive CSS box model handling.
+Dynamic text case adjustment for improved UX and readability.
+Style modifications based on element modifiers for a more interactive and polished user interface.
+Learning Outcomes:
+Through the development of My Splash Page, I deepened my understanding of modern CSS techniques and responsive design principles. I gained hands-on experience with Flexbox, which enhanced my ability to create flexible and responsive layouts. The project also improved my proficiency in utilizing viewport units for scalable element sizing, and implementing box-sizing for more predictable styling. Additionally, I explored how to dynamically change the case of text and employ style modifications based on element states, further expanding my CSS skills. This project has been a valuable step in my journey as a web developer, demonstrating my ability to apply key concepts in a practical setting.
+
+
+
+
+
